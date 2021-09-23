@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">161943256780-11k7o7hc1lp8ke6nqqoqhq47l9j1fs59.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">161943256780</string>
+    <string name="google_api_key" translatable="false">AIzaSyAzof3rl2CdpsQRks-NRIrEvVsnbe6YTp0</string>
+    <string name="google_app_id" translatable="false">1:161943256780:android:337f968a0c3d8d37104c69</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAzof3rl2CdpsQRks-NRIrEvVsnbe6YTp0</string>
+    <string name="google_storage_bucket" translatable="false">krishworks-153e2.appspot.com</string>
+    <string name="project_id" translatable="false">krishworks-153e2</string>
+</resources>

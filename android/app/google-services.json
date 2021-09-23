@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161943256780",
+    "project_id": "krishworks-153e2",
+    "storage_bucket": "krishworks-153e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161943256780:android:337f968a0c3d8d37104c69",
+        "android_client_info": {
+          "package_name": "com.example.krishworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161943256780-11k7o7hc1lp8ke6nqqoqhq47l9j1fs59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzof3rl2CdpsQRks-NRIrEvVsnbe6YTp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161943256780-11k7o7hc1lp8ke6nqqoqhq47l9j1fs59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
